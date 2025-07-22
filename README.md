@@ -1,6 +1,6 @@
 # Alfredo Juárez Rodríguez
-Welcome to my personal github portfolio. Currently I'm a Data Science and AI student in UPM (Madrid).
-I consider myself a diligent and resolutive person, and I'm ready for work experiences that helps me develop my skills and myself. 
+Welcome to my personal GitHub portfolio. Currently I'm a Data Science and AI student in UPM (Madrid).
+\n I consider myself a diligent and resolutive person, and I'm ready for work experiences that helps me develop my skills and myself. 
 
 ## Skills
 - Phyton
